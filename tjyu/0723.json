@@ -955,15 +955,7 @@
 {key:'酷豆',name:'酷豆',type:1,api:'https://api.kdapi.info/api.php/provide/vod/',playUrl:'https://jx.kubohk.com/jx/?url=',searchable:1,quickSearch:1,filterable:0},
 {key:'大MM',name:'大MM',type:0,api:'https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml',searchable:1,quickSearch:1,filterable:0},
 
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "3865f0ab8f124688ad786a262af9b940"
+  
     }
 
   ],
