@@ -164,6 +164,12 @@ Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 盗墓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
 每日科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 好莱坞HD,http://www.372583307.top:4022/udp/233.50.201.228:5140
+卫视电影台,http://23.237.10.66:16010
+龙翔时代,http://120.84.96.66:808/hls/35/index.m3u8?blog.ntnas.top
+天映电影,http://120.84.96.66:808/hls/85/index.m3u8?blog.ntnas.top
+东森洋片,http://120.84.96.66:808/hls/33/index.m3u8?blog.ntnas.top
+东森电影,http://120.84.96.66:808/hls/32/index.m3u8?blog.ntnas.top
+东森洋片,http://139.227.62.63:61985/hlsok/14561539/index.m3u8
 斗鱼电影1,https://live.52sf.ga/douyu/3637778
 斗鱼电影6,https://live.52sf.ga/douyu/36337
 斗鱼电影9,https://live.52sf.ga/douyu/96577
