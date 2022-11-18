@@ -124,37 +124,11 @@
       "filterable": 1
     },
     {
-      "key": "異界",
-      "name": "異界",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "紙條",
       "name": "紙條",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
-      "ext": "3865f0ab8f124688ad786a262af9b940"
-    },
-    {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "3865f0ab8f124688ad786a262af9b940"
-    },
-    {
-      "key": "盤搜",
-      "name": "盤搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
       "ext": "3865f0ab8f124688ad786a262af9b940"
     },
     {
