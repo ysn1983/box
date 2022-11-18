@@ -3,7 +3,7 @@
 //"spider":https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/11-10.jar,
 //"spider": https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/cs.jar,
 //"spider":https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/%e5%ae%98%e6%96%b9.jar,
-//"spider":https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/1.jar,
+
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],
