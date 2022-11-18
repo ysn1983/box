@@ -23,36 +23,6 @@
 {"key":"速","name":"速","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"番","name":"番","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key": "*AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
-{
-      "key": "*玖玖",
-      "name": "*玖玖",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
-    },
-    {
-      "key": "*环亚",
-      "name": "*环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
-    },
-   {
-      "key": "*佳丽",
-      "name": "*佳丽",
-      "type": 0,
-      "api": "https://jializyzapi.com/api.php/provide/vod/at/xml/"
-    },
-    {
-      "key": "*富二代",
-      "name": "*富二代（仅支持搜索）",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi/?ac=videolist",
-	  "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{"key":"*酷豆","name":"*酷豆","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"酷豆2","name":"酷豆2(切)","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"酷伦理","name":"酷伦理(切)","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"*蛋蛋视频","name":"*蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"番号资源","name":"番号资源(卡切)","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"咪咪资源","name":"咪咪资源(切)","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1},
@@ -193,8 +163,7 @@
       "filterable": 0
     },
 { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"csp_qiepian_ASMR","name":"ASMR(qp)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1}
-],
+
 {"key":"pwd_袜子","name":"袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key": "*水蜜桃", "name": "🔞水蜜桃", "type": 1, "api": "http://51smt4.xyz/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key": "*JAV名优馆", "name": "🔞JAV名优馆", "type": 1, "api": "http://mygzycj.com/api.php?ac=videolist", "searchable": 1, "quickSearch": 0, "filterable": 0},
