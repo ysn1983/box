@@ -12,7 +12,6 @@
 
 "sites":[
  
-   { "key" : " csp_xp_naifei " , "name" : " 💢奈飞中文" , "type" : 3 , "api" : " csp_XPathMacFilter " , "searchable" : 1 , "quickSearch" : 1 , "filterable " : 1 , "分机" : " https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/naifei.json " },
     {"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt"},
    {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1} ,
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1} ,
