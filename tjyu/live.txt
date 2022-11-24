@@ -387,6 +387,14 @@ AXN,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6162/index.m3u8
 
 
 电影轮播,#genre#
+经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+高帧影片,http://epg.112114.xyz/douyu/6763930
+米娅电影,http://epg.112114.xyz/douyu/6537888
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+欧美恐怖,http://epg.112114.xyz/douyu/96577
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 东森电影,http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 东森电影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
