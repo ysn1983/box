@@ -327,9 +327,6 @@
 {"key":"相声小品","name":"🅱️相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 
 
-{"key": "久草资源","name": "久草资源","type": 1,"api": "http://jcspcj8.com/api?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "色猫资源","name": "色猫资源","type": 1,"api": "https://caiji.semaozy.net/inc/apijson_vod.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "玉兔资源","name": "玉兔资源","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "玉蝴蝶资源","name": "玉蝴蝶资源","type": 1,"api": "https://jindiezy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "花色资源","name": "花色资源","type": 1,"api": "https://api.huasezy.xyz/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
