@@ -15,6 +15,7 @@
 
 
 "sites":[
+    {"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/naifeiorg.json"},
      {
             "key":"360影视",
             "name":"360影视",
