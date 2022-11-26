@@ -13,7 +13,17 @@
 
 
 "sites":[
- 
+ {"key": "py_czspp","name":"厂长(py)","type": 3,"api": "py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_czspp.py"},
+{"key": "py_lezhutv","name":"乐猪TV(py)","type": 3,"api": "py_lezhutv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_lezhutv.py"},
+{"key": " py_3qu","name":"快播影视(py)","type": 3,"api": "py_3qu","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_3qu.py"},
+{"key": " py_kuaikan","name":"快看(py)","type": 3,"api": "py_kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_kuaikan.py"},
+{"key": "py_douban.py","name":"豆瓣推荐(py)","type": 3,"api": "py_douban.py","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_douban.py"},
+{"key": " py_kunyu77","name":"酷云77(py)","type": 3,"api": "py_kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_kunyu77.py"},
+{"key": "py_voflix","name":"Voflix(py)","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_voflix.py"},
+{"key": " py_bilimd","name":"哔哩影视(py)","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_bilimd.py"},
+{"key": " py_bilivd","name":"B站视频(py)","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_bilivd.py"},
+{"key": "py_yixi","name":"一席(py)","type": 3,"api": "py_yixi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.iqiq.io/wsl201/box/main/py/py_yixi.py"},
+
   {"key": "Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
        //{"key": "csp_Bliyc","name":"🅱演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
     //{"key": "csp_Blixs","name":"🅱相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
