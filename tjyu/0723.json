@@ -1211,15 +1211,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "百淘影视",
-      "name": "🍨百淘影视",
-      "type": 1,
-      "api": "http://ys.58g8.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+
     {
       "key": "阿里影视",
       "name": "🥤阿里影视",
@@ -1264,44 +1256,8 @@
             "searchable": 1,
             "quickSearch": 1
 
-    }
-          ]
+    },
 
-    "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-       {
-            "name": "newjiexi3",
-            "type": 1,
-            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
-        }, 
         {
             "key":"相声小品",
             "name":"相声小品(Bili)",
@@ -1647,13 +1603,6 @@
 {"key": "zp053", "name": "🔞大地资源", "type": 0, "api": "https://dadiapi.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0},
 {"key": "*大地资源", "name": "🔞大地资源", "type": 0, "api": "https://dadiapi.com/api.php", "searchable": 1, "quickSearch": 0, "filterable": 0},
 {"key": "*鲨鱼资源", "name": "🔞鲨鱼资源", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0},
-{"key": "zp136", "name": "🔞速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0},
-{"key": "zp065", "name": "🔞花椒,", "type": 0, "api": "https://apihjzy.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "filterable": 0},
-{"key": "zp098", "name": "🔞老鸭资源", "type": 0, "api": "http://laoyazy.vip/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0}
-
-{"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*探探资源","name":"*探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*色猫资源","name":"*色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
