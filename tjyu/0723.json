@@ -16,6 +16,13 @@
 
 "sites":[
     
+      {"key":"csp_xBPQ_诺讯影视","name":"️🦐诺讯┃(筛选)",
+       "type":3,
+       "api":"csp_xBPQ",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":0,
+       "ext":"https://agit.ai/tvboxers/tvboxs/raw/branch/master/wsc/MaooXP/nxys.json"},
   
       {
             "key": "csp_Kunyu77",
