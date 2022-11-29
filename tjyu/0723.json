@@ -1897,7 +1897,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"爱酷","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
 {"name":"☑快速直解","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
-{"name":"☑云you解析","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},
 {"name":"☑乐多解析","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
 {"name":"☑诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"☑M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
@@ -1947,8 +1946,7 @@
     //{"name":"旋风","type":1,"url":"https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","ext":{"flag":["xfyun"]}},
     {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
-    {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-    { "name": "太空", "type": 1, "url": "http://124.222.68.182/jiexi/4kJX.php/?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua" ] } },
+   { "name": "太空", "type": 1, "url": "http://124.222.68.182/jiexi/4kJX.php/?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua" ] } },
     {"name":"16","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
     {"name":"renrenmi2","type":1,"url":"https://a.dxzj88.com/jxrrm/jiami.php?url=","ext":{"flag":["renrenmi"]}},
     {"name":"renrenmi3","type":1,"url":"https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=","ext":{"flag":["renrenmi"]}},
@@ -1969,11 +1967,7 @@
     {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
     {"name":"2","type":1,"url":"https://jx.mczdyw.com/xg.php?url=","ext":{"flag":["mgtv","芒果"]}},
  
-{
-		"name": "云you解析①",
-		"type": 1,
-		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url="
-	}, 
+ 
    {
 	    "name":"OK",
 	    "type":0,
