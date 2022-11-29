@@ -18,15 +18,6 @@
     
   
       {
-	    "key":"T4_douban",
-	    "name":"🍀豆瓣高分",
-	    "type":4,
-	    "api":"http://top.fuqizhishi.com/vod",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":1
-      },
-      {
             "key": "csp_Kunyu77",
             "name": "🍁酷云七七",
             "type": 3,
@@ -35,16 +26,7 @@
             "quickSearch": 1,
             "filterable": 1
        },
-         {
-      "key": "Bili",
-      "name": "B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/lanhaidixingren/Tvbox/raw/branch/master/bili.json"
-         },
+  
     {
     "key": "csp_xBPQ_酷客影视",
     "name": "xBPQ | 酷客影视",
@@ -1700,6 +1682,18 @@
 {"name":"ltnb02","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
 {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}},
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
+],
+
+"rules": [
+{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+{"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+{"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+{"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+{"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
