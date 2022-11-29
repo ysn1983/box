@@ -16,15 +16,7 @@
 
 "sites":[
     
-     {
-            "key": "360_spider",
-            "name": "🌈360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-      },
+  
       {
 	    "key":"T4_douban",
 	    "name":"🍀豆瓣高分",
@@ -43,69 +35,6 @@
             "quickSearch": 1,
             "filterable": 1
        },
-       {
-            "key": "SPQQ",
-            "name": "🐧腾讯(官)",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
-       },
-       {
-            "key": "SPIQY",
-            "name": "🥝爱奇艺(官)",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
-        },
-        {
-            "key": "youku",
-            "name": "👑优酷(官)",
-            "type": 0,
-            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "categories": [
-            "综艺",
-            "动漫",
-            "动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "国产剧",
-            "港台剧",
-            "日韩剧",
-            "欧美剧",
-            "惊悚片",
-            "犯罪片",
-            "冒险片",
-            "悬疑片",
-            "动画片",
-            "武侠片",
-            "奇幻片",
-            "少儿",
-            "其他片"
-            ]
-          },
-          {
-      "key": "SPMGTV",
-      "name": "🥭芒果(官)",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/jun97.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"
-         },
          {
       "key": "Bili",
       "name": "B站",
@@ -212,26 +141,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
-    },
-    {
-      "key": "csp_XYQ_lu1",
-      "name": "️🖥️电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/ningmeng.json"
-    },
-    {
-      "key": "py_cctv",
-      "name": "❤️爱央视PY",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/cctv.py"
     },
     {
       "key": "csp_xBPQ_真不卡",
@@ -481,15 +390,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_Anime1",
-      "name": "🌸动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_biubiu_ting",
       "name": "📚️听书网",
       "type": 3,
@@ -498,66 +398,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/tingshu.json"
-    },
-    {
-      "key": "17kan",
-      "name": "⚽🏀17看球",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"
-    },
-    {
-      "key": "dr_88看球",
-      "name": "⚽🏀88看球",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/88%E7%9C%8B%E7%90%83.js"
-    },
-    {
-      "key": "csp_XYQBiu_310直播",
-      "name": "⚽🏀310直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/310%E7%9B%B4%E6%92%AD.json"
-    },
-    {
-      "key": "JRS看球网",
-      "name": "⚽🏀JRS看球网",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
-    },
-    {
-      "key": "dr_JRKAN直播",
-      "name": "⚽🏀JRKAN直播",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/JRKAN.js"
-    },
-    {
-      "key": "csp_xBPQ_抓饭体育",
-      "name": "️⚽🏀抓饭体育",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
     },
     {
       "key": "csp_BBB",
@@ -569,46 +409,7 @@
       "filterable": 0,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
     },
-    {
-      "key": "儿童",
-      "name": "🐯儿童乐园",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
-    },
-    {
-      "key": "学习",
-      "name": "📝学习园地",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
-    },
-    {
-      "key": "软件",
-      "name": "📗软件教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
-    },
-    {
-      "key": "美食",
-      "name": "🍔美食合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-    },
+    
     {
       "key": "音乐",
       "name": "🎤音乐现场",
@@ -618,16 +419,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
-    },
-    {
-      "key": "热舞",
-      "name": "💃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
     },
     {
       "key": "戏曲",
@@ -709,15 +500,6 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/Alist.json"
     },
     {
-      "key": "csp_bendi",
-      "name": "📂本地视频",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "Gitcafe",
       "name": "🔖小纸条",
       "type": 3,
@@ -783,16 +565,6 @@
       "filterable": 1,
       "ext":"998c79f4f189435090049164d503e4e3"
     },
-   {
-      "key": "csp_xpath_yinfans",
-      "name": "💥音范丝4K",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
-    },
     {
       "key": "bdys",
       "name": "🧲哔嘀磁力",
@@ -832,16 +604,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_XYQBiu_凌云韩国",
-      "name": "🍱凌云韩国",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"
     },
     {
       "key": "csp_XBiubiu_大米星球",
@@ -1912,7 +1674,7 @@
 {"name":"☑猪蹄解析","type": 0,"url": "https://jx.iztyy.com/svip/?url="},
 {"name":"☑铭人解析","type":0,"url":"https://parse.123mingren.com/?url="},
 {"name":"☑BL解析","type":0,"url":"https://svip.bljiex.cc/?v="},
-    //
+
 	  {  "name": "bozrc",  "type": 0,  "url": "https://jx.bozrc.com:4433/player/?url=",  "ext": {   "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]  } },
     {"name":"解析GGTV","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
     {"name": "GGTV快速","type": 1,"url": "https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
@@ -1943,7 +1705,7 @@
 	     {"name":"4K解析","type":0,"url":"https://jx.4kdv.com/?url="},
 	     {"name":"BL解析","type":0,"url":"https://vip.bljiex.com/?v="},
 	     {"name":"CHok","type":0,"url":"https://www.gai4.com/?url="},
-    //{"name":"旋风","type":1,"url":"https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","ext":{"flag":["xfyun"]}},
+    {"name":"旋风","type":1,"url":"https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","ext":{"flag":["xfyun"]}},
     {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
     {"name":"Wuduzy","type":1,"url":"https://aa.xkys.tv/json.php?url=","ext":{"flag":["wuduzy"]}},
    { "name": "太空", "type": 1, "url": "http://124.222.68.182/jiexi/4kJX.php/?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua" ] } },
