@@ -15,6 +15,16 @@
 
 
 "sites":[
+
+        {"key": "drpy_js_伊人追剧","name": " 🎑伊人追剧[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/伊人追剧.js"},
+      	{"key": "drpy_js_土狗影院","name": " 🎑土狗影院[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/土狗影院.js"},
+        {"key": "drpy_js_神马影视","name": " 🎑神马影视[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/神马影视.js"},
+        {"key": "drpy_js_TF影院","name": " 🎑TF影院[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/TF影院.js"},
+      	{"key": "drpy_js_骚火电影","name": " 🎑骚火电影[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/骚火电影.js"},
+      	{"key": "drpy_js_偲霖影视","name": " 🎑偲霖影视[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/偲霖影视.js"},
+      	{"key": "drpy_js_思乐影视","name": " 🎑思乐影视[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/思乐影视.js"},
+	      {"key": "drpy_js_碟调影视","name": " 🎑碟调影视[DRPY]","type": 3,"api": "https://agit.ai/heroaku/TVbox/raw/branch/main/libs/drpy.min.js","ext": "https://agit.ai/heroaku/TVbox/raw/branch/main/Js/碟调影视.js"},  
+	
     
       {"key":"csp_xBPQ_诺讯影视","name":"️🦐诺讯┃(筛选)",
        "type":3,
