@@ -4,7 +4,7 @@
       //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/cs.jar",
       //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/w.jar",
       //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/xc1029.jarr",
-        //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/%e6%9c%80%e9%ab%981080%e5%93%94%e5%93%a9%e5%bf%b5%e5%bd%b1%e7%a5%9e%e9%a9%aczb.jar",
+       
                  
       "lives": [{
 		"group": "redirect",
@@ -17,7 +17,7 @@
 "sites":[
  
 
-{"name": "🔮米奇妙妙屋","server": "http://https://anime.mqmmw.ga","type": "alist"},
+  {"name": "🔮米奇妙妙屋","server": "http://https://anime.mqmmw.ga","type": "alist"},
   {"name": "🥗小雅的盘","server": "http://101.34.67.237:5244","type": "alist"},
   {"name": "📀纪录片","server": "https://al.chirmyram.com/mov/纪录片","type": "alist"},
   {"name": "🌊七米蓝","server": "https://al.chirmyram.com","type": "alist"},
