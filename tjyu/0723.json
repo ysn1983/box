@@ -11,6 +11,10 @@
 
 
 "sites":[
+{"key":"js_优酷视频","name":"👑官源┃优酷视频","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/优酷.js"},
+ {"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
+{"key":"py_bilibili","name":"哔哩哔哩","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"},
+
 {"key":"csp_xpath_完美看看影视","name":"💯完美看看影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/完美看看影视.json"},
 {"key":"演唱会","name":"🎤潇洒演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/演唱会.json"},
 {"key":"csp_XBiubiu_600影视","name":"✡六佰影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/600影视.json"},
