@@ -470,6 +470,12 @@ Threesome,http://cdn.adultiptv.net/threesome.m3u8
 
 付费动画_123,#genre#
 
+新紅樓夢-CD01初嘗禁果-时长:47:03,https://ss.rongliren.com/api/video/m3u8?id=6899&admin=1
+新紅樓夢-CD03素女銷魂-时长:47:14,https://ss.rongliren.com/api/video/m3u8?id=6897&admin=1
+新紅樓夢-CD06引君入夢-时长:54:13,https://ss.rongliren.com/api/video/m3u8?id=6895&admin=1
+新紅樓夢-CD08痴情色男-时长:01:27:03,https://ss.rongliren.com/api/video/m3u8?id=6893&admin=1
+新紅樓夢-CD10極樂世界-时长:45:16,https://ss.rongliren.com/api/video/m3u8?id=6891&admin=1
+
 毛片儿岁月,https://d1q0nux61ngu8a.cloudfront.net/20181223/2pRWsdxr/1504kb/hls/index.m3u8
 甜心好莱坞,https://video1.51daao.com/20190615/mgkTc2wJ/index.m3u8
 甜心好莱坞,https://video1.51daao.com/20190615/mgkTc2wJ/1000kb/hls/index.m3u8
