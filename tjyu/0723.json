@@ -909,7 +909,28 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
+{
+			"key": "❤点点娱乐",
+			"name": "❤点点娱乐",
+			"type": 0,
+			"api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+			"searchable": 0,
+			"quickSearch": 0
+		},
+		{
+			"key": "❤大MM资源",
+			"name": "❤大MM资源",
+			"type": 0,
+			"api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+			"searchable": 0,
+			"quickSearch": 0
+		},
+        {"key": "csp_xBPQ_香蕉资源","name": "🏆香蕉资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉资源.json"},
+    {"key": "csp_xBPQ_香蕉超清","name": "🏆香蕉超清","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉超清.json"},
+    {"key": "csp_xBPQ_香蕉国产","name": "🏆香蕉国产","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉国产.json"},
+        {"key": "csp_xBPQ_香蕉直播","name": "🏆香蕉直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉直播.json"},
+        {"key": "点点娱乐","name": "🥇点点娱乐","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","quickSearch": 1,"searchable": 1,"filterable": 1},
+        
 
 {"key": "玉蝴蝶资源","name": "玉蝴蝶资源","type": 1,"api": "https://jindiezy.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "滴滴资源","name": "滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
