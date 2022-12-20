@@ -8,6 +8,7 @@
 //"spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 //"spider":"https://agit.ai/yiyi/TVbox-pf/raw/branch/master/YIYI.jar",
 //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/Yoursmile2.jar",
+//"spider":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/xBPQ.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],
@@ -35,9 +36,8 @@
             "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e889b257fb9dbaf519f3c095231c12ea"
         },
  
-{"key":"csp_XBPQ床吧搜索","name":"床吧搜索〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/床吧搜索.json"},{"key":"csp_XBPQ床吧","name":"床吧〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/床吧.json"},{"key":"csp_XBPQ叫床吧","name":"叫床吧〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/叫床吧.json"},
 
-{"key":"csp_XBPQAVideo","name":"AVideo〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/AVideo.json"},
+
 {"key":"csp_XBPQbanan","name":"banan〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/banan.json"},
 {"key":"csp_XBPQ黄瓜TV.","name":"cucumerTV〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/黄瓜TV.json"},
 {"key":"csp_XBPQ麻豆女优","name":"麻豆女卡〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆女优.json"},
