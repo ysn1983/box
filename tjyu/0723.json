@@ -35,6 +35,18 @@
             "jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e889b257fb9dbaf519f3c095231c12ea"
         },
  
+{"key":"csp_XBPQ床吧搜索","name":"床吧搜索〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/床吧搜索.json"},{"key":"csp_XBPQ床吧","name":"床吧〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/床吧.json"},{"key":"csp_XBPQ叫床吧","name":"叫床吧〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/叫床吧.json"},
+
+{"key":"csp_XBPQAVideo","name":"AVideo〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/AVideo.json"},
+{"key":"csp_XBPQbanan","name":"banan〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/banan.json"},
+{"key":"csp_XBPQ黄瓜TV.","name":"cucumerTV〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/黄瓜TV.json"},
+{"key":"csp_XBPQ麻豆女优","name":"麻豆女卡〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆女优.json"},
+{"key":"csp_XBPQ麻豆映画","name":"麻豆映画〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/麻豆映画.json"},
+{"key":"csp_XBPQ性欲轮回","name":"爱轮回〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/性欲轮回.json"},
+{"key":"csp_XBPQ香蕉视频","name":"banana视频〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉视频.json"},
+{"key":"csp_XBPQ欧美视频","name":"欧美视频〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/欧美视频.json"},
+{"key":"csp_XBPQ聚优直播","name":"聚优直播〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/聚优直播.json"},
+
 
     {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "演唱会","name": "🅱️演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bliyc.json"},
