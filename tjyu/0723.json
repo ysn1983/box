@@ -12,7 +12,7 @@
 "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42D456EB3E86D53575B834FB85D38079",
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
 
- "lives": [
+     "lives": [
         {
             "name": "直播",
             "type": 0,
@@ -29,6 +29,9 @@
                     ]
                 }
             ],
+            "epg": "http://epg.51zmt.top:8000/api/diyp/"
+        }
+    ],
 
 
 "sites":[
