@@ -65,13 +65,6 @@ TVBS新聞,http://jiandjh.51vip.biz:35455/youtube/2mCSYvcfhtc?quality=1080
 鏡新聞,http://jiandjh.51vip.biz:35455/youtube/5n0y6b0Q25o?quality=1080
 新唐人,http://jiandjh.51vip.biz:35455/youtube/WIhgU_mc05A?quality=1080
 
-
-
- 
-
-
-
-
 电影轮播,#genre#
 犯罪片,http://epg.112114.xyz/douyu/747764
 刘德华,http://epg.112114.xyz/douyu/2516864
@@ -340,7 +333,7 @@ KALOOPY,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2115
 迈阿密电视台,http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB/chuklist.m3u8
 Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 XXX 卡通,http://144.76.58.245:2307/cartoon/index.m3u8
-🔹🔹👇🔹🔹成人IPTV🔹🔹👇🔹🔹,http://online.radiorelax.ua/RadioRelax_Christmas_HD
+成人I,http://online.radiorelax.ua/RadioRelax_Christmas_HD
 粗糙,http://cdn.adultiptv.net/rough.m3u8
 金发女郎,http://cdn.adultiptv.net/blonde.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
