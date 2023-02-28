@@ -13,7 +13,7 @@
  "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/live.txt",
+		    "url": "https://agit.ai/tjyu110/tvbox/src/commit/d3e9086d77bc4e1e530b51572bfefb1d9d2efe2d/tjyu/live.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
