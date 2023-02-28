@@ -12,7 +12,7 @@
 //"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/0928.jar;md5;6b3da8e0a11b4ef8333a311c29c55dcf",
 
 
- "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvc3JjL2NvbW1pdC9lYjYwYWQxOTRiNjRmOTlkN2QyOWZmMTZiYTVhNmU3ZTY5YzJlZGM5L3RqeXUvbGl2ZS50eHQ="]}]}],
+ "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvc3JjL2NvbW1pdC9lYjYwYWQxOTRiNjRmOTlkN2QyOWZmMTZiYTVhNmU3ZTY5YzJlZGM5L3RqeXUvbGl2ZS50eHQ="]}]}],
 
 "sites":[
    {
