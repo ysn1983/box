@@ -9,10 +9,8 @@
 //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/2.jar",
 //"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/Yoursmile2.jar",
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb",
-//"spider":"https://ghproxy.com/https://github.com/ltxxjs/box2022-1/raw/main/jar/0928.jar;md5;6b3da8e0a11b4ef8333a311c29c55dcf",
 
-
- "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvc3JjL2NvbW1pdC9lYjYwYWQxOTRiNjRmOTlkN2QyOWZmMTZiYTVhNmU3ZTY5YzJlZGM5L3RqeXUvbGl2ZS50eHQ="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],
 
 "sites":[
    {
@@ -225,6 +223,8 @@
             "searchable": 0,
             "quickSearch": 0
         },
+
+        
 
  
 {"key":"ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
