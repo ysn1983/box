@@ -1,13 +1,17 @@
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;4BA0DF8CB001514817DA4E4337DF96FC",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
+		"lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/230107.txt",    
+      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/CR.txt",    
+      //"url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/mitv.txt",     
+      //"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    }
+  ],
 
 	"sites":[
 {"key":"dr_豆瓣","name":"🔍豆瓣┃本接口免费,花钱买就是铁憨憨🈲","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
