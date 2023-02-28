@@ -17,9 +17,13 @@
 //"spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
 
 
- 
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvc3JjL2NvbW1pdC8wYzhhOWZkMGY2ZGY1OTNlNTVkM2EzNTQ5MzAxOWJiNjRhYTIzMGVkL3RqeXUvbGl2ZS50eHQ="]}]}],
-
+ "lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
 
 "sites":[
 
