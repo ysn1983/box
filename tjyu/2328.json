@@ -2,8 +2,8 @@
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;4BA0DF8CB001514817DA4E4337DF96FC",
 	"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/0225.jar;md5;f6ca5c789e1aabad1d1dc8e27a393ca2",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],	
+
 
 	"sites":[
 {"key":"csp_一起看","name":"👨‍👩‍👧一起看(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"8e3aefcba838d8dc5102ac786719d837"},
