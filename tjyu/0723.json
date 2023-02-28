@@ -1,18 +1,18 @@
 ﻿
 {
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/0723.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/0723.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/11-10.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/cs.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/%e5%ae%98%e6%96%b9.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/1.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/2.jar",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/Yoursmile2.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/0723.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/0723.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/11-10.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/cs.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/%e5%ae%98%e6%96%b9.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/1.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/rawc/branch/master/tjyu/2.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/Yoursmile2.jar",
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb",
-//"spider":"https://agit.ai/tjyu110/tvbox/src/commit/d9fbd52d0f5cdba7ae1609696be0e62c4c68796e/tjyu/Yoursmile%20%281%29.jar",
+//"spider":"https://agit.ai/tjyu110/tvbox/raw/commit/d9fbd52d0f5cdba7ae1609696be0e62c4c68796e/tjyu/Yoursmile%20%281%29.jar",
  //"spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
  
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvc3JjL2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvc3JjL2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],
 
 "sites":[
 
