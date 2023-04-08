@@ -13,11 +13,16 @@
  //"spider":"https://raw.liucn.cc/box/sub/jar/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 	//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;4BA0DF8CB001514817DA4E4337DF96FC",
 	//"spider":"https://ghproxy.com/https://raw.githubusercontent.com/Yosakoii/Yosakoii.github.io/main/0225.jar;md5;f6ca5c789e1aabad1d1dc8e27a393ca2",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	// "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+ 
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3RqeXUxMTAvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvdGp5dS9saXZlLnR4dA=="]}]}],	
 
 "sites":[
+
+{"key":"直播","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+
 
    {
             "key": "csp_xpath_chongtmtv",
