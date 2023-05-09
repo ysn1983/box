@@ -1,0 +1,18 @@
+{
+    "urls": [
+       
+         {
+      "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/2328.json",
+      "name": "成人1"
+    },   
+      {
+      "url": "https://agit.ai/ctt/TVBox/raw/branch/main/18.json",
+      "name": "成人2"
+    }, 
+   
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视6.txt",
+            "name": "线路108"
+        }
+    ]
+}
