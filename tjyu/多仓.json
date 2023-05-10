@@ -81,10 +81,7 @@
             "url": "http://9xi4o.tk/0725.json",
             "name": "4K云盘〔多条线路〕"
         },           
-        {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "🍎小苹果〔多条线路〕"
-        },
+      
 
         
 
@@ -92,10 +89,6 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         }, 
-{
-            "url": "http://miaotvs.cn/meow",
-            "name": "🐹喵影视线路"
-        },
 
 {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
@@ -223,13 +216,11 @@
       "name": "成人8"
     },
     {"url":"http://shuyuan.miaogongzi.net/shuyuan/1682460537.json","name": "聚优解说路线"},
-//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/m3u8playlist/dp/master/site2.json","name": "m3u8play路线"},
 {"url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt","name": "QiaoJ"},
 //{"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json","name": "MHQTV线路"},
-//{"url":"https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json","name": "JieSe线路"},
+
 {"url":"https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json","name": "FenWe线路"},
-//{"url":"https://ghproxy.com/https://raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json","name": "扛把子线路"},
-//{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/fly.json","name": "茶行线路"},
+
 {"url":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt","name": "Sex线路"},
 {"url":"https://huhujunxx.neocities.org/AV.json","name": "Huhujun线路"},
 //{"url":"http://52bsj.vip:81/api/v3/file/get/68420/fl%E6%8E%A5%E5%8F%A3.txt?sign=yowqWMosWpA9ssTwrUNhZKsf_HE8J_RY2mOnY3YBGEw%3D%3A0","name": "星河科技"},
@@ -239,7 +230,7 @@
 //{"url":"http://52bsj.vip:81/api/v3/file/get/65805/%E4%BA%BA%E4%BA%BA%E9%A3%9E%E6%9C%BA.txt?sign=NsiWQIsvkHQukAmfGvrz1NbVDw2YY1-axLDdKW6i_1g%3D%3A0","name": "打野带飞"},
 {"url":"http://饭太硬.ga/x/b.json","name": "下路带飞"},
         {
-            "url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+            "url": "https://huhujunxx.neocities.org/AV.json",
             "name": "线路108"
         }
     ]
