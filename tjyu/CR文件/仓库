@@ -1,18 +1,5 @@
 {"urls":
 [
-{"url":"https://raw.iqiq.io/xfcjp/xfcjp.github.io/master/one.json","name":"xfcjp_one"},
-{"url":"https://raw.iqiq.io/xfcjp/xfcjp.github.io/master/one1.json","name":"xfcjp_one1"},
-{"url":"https://raw.iqiq.io/Dong-learn9/TVBox-zyjk/main/18.json","name":"Dong-learn9_18"},
-{"url":"https://raw.iqiq.io/Dong-learn9/TVBox-zyjk/main/19.json","name":"Dong-learn9_19"},
-{"url":"https://raw.iqiq.io/Dong-learn9/TVBox-zyjk/main/juyou.json","name":"Dong-learn9_juyou"},
-{"url":"https://raw.iqiq.io/Dong-learn9/TVBox-zyjk/main/vip.json","name":"Dong-learn9_vip"},
-{"url":"https://raw.iqiq.io/Dong-learn9/TVBox-zyjk/main/js.json","name":"Dong-learn9_JS"},
-{"url":"https://raw.iqiq.io/Dong-learn9/TVBox-zyjk/main/tvbox.json","name":"Dong-learn9_tvbox"},
-{"url":"https://raw.iqiq.io/jessic01/tv/main/11.json","name":"jessic01_11"},
-{"url":"https://raw.iqiq.io/qaz1371041/tvbox/main/18.json","name":"qaz1371041_18"},
-{"url":"https://raw.iqiq.io/c120487/00/main/00tvx1.txt","name":"c120487_00tvx1"},
-{"url":"https://raw.iqiq.io/ICU2Vmile/TVbox/main/configav2.json","name":"ICU2Vmile_configav2"},
-{"url":"https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/18.json","name":"xianyuyimu_18"},
 {"url":"https://raw.iqiq.io/xibao999/x/master/dxwoai18.json","name":"xibao999_dxwoai18"},
 {"url":"https://raw.iqiq.io/xibao999/x/master/adult1.json","name":"xibao999_adult1"},
 {"url":"https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fuli.json","name":"tvbox-line_fuli"},
@@ -218,11 +205,44 @@
 {"url":"http://wp.anxwl.cn/down.php/e1d0634dc763ffcb461143b23628b869.msll&e4f28a49643fedf735775a7b1ddb567f","name":"🔞18+49"},
 {"url":"http://wp.anxwl.cn/down.php/aca16f1ab38184a7740f100205252a66.msll&e4f28a49643fedf735775a7b1ddb567f","name":"🔞18+50"},
 
-//https://raw.iqiq.io/yan91220/TVBox/main/网络搜集大人仓库.txt
-//23/02/13
+{"url":"http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt","name":"🔞电视免VIP"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json","name":"🔞夜视界C"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieD.json","name":"🔞夜视界D"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieE.json","name":"🔞夜视界E"},
+
+{"url":"http://152.136.125.181:81/MM/dianbos/yeshijieF.json","name":"🔞夜视界F"},
+
+{"url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt","name":"🔞胡佬","time":"2022-10-12 02:00:00"},
+
+{"url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg","name":"🔞未知源"},
+
 {"url":"https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt","name":"🔞程雪俪"},
 
-//https://raw.iqiq.io/QFBJ/TV/main/V/vip.txt
+{"url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json","name":"🔞刚刚走过"},
+
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json","name":"🔞月光宝盒Pro"},
+
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name":"🔞月光宝盒Plus"},
+
+{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt","name":"🔞月光宝盒18+"},
+
+{"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json","name":"🔞老马18+"},
+
+{"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/qiaoj.json","name":"🔞巧计18+"},
+
+{"url":"https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json","name":"🔞云星18+"},
+
+{"url":"https://raw.iqiq.io/FongMi/CatVodSpider/main/json/adult.json","name":"🔞蜂蜜18+"},
+
+{"url":"https://agit.ai/fenwe/TVBox/raw/branch/master/dxwoai18+.json","name":"🔞蜂蜜9+9"},
+
+{"url":"https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json","name":"🔞蜂蜜10+8"},
+
+{"url":"https://agit.ai/fenwe/TVBox/raw/branch/master/ziyong.json","name":"🔞蜂蜜8+10"},
+
 {"url": "https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name": "🔞月光宝盒PRO"},
 {"url": "hhttps://raw.iqiq.io/zhanghong1983/TVBOXZY/main/18.json","name": "🔞张宏18"},
 {"url": "hhttps://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json","name": "🔞张宏vip"},
@@ -283,9 +303,7 @@
 {"url": "https://codeberg.org/caic/a/raw/branch/main/不正经.json","name": "🔞不正经"},
 {"url": "https://agit.ai/376242575/zzh/raw/branch/master/A.txt","name": "🔞人人资源"},
 {"url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fuli.json","name": "🔞Tvbox-line"},
-{"url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg","name": "🔞成人路线"},
 
-//https://raw.iqiq.io/QFBJ/TV/main/V/18.json
 {"url":"https://agit.ai/gk0746/2/raw/branch/master/1.bmp","name":"🐭福利"},
 {"url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg","name":"🐮福利"},
 {"url":"https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name":"🐯福利"},
