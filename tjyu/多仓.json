@@ -1,6 +1,13 @@
 {
     "urls": [
-       
+         {
+            "url": "https://agit.ai/65012833/TVbox/raw/branch/master/YS.json",
+            "name": "YS"
+        },
+       {
+            "url": "https://agit.ai/ctt/TVBoxSE/raw/branch/master/FongMi.json",
+            "name": "FongMi"
+        },
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
             "name": "月光宝盒"
