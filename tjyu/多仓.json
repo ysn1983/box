@@ -1,5 +1,9 @@
 {
     "urls": [
+          {
+            "url": "https://agit.ai/laozou/XYQTVBox/raw/branch/main/XYQTVBox.json",
+            "name": "laozou"
+        },
          {
             "url": "https://agit.ai/65012833/TVbox/raw/branch/master/YS.json",
             "name": "YS"
