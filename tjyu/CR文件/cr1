@@ -1,5 +1,25 @@
 {
     "urls": [
+               		{
+            "url": "https://agit.ai/ctt/TVBox/raw/branch/main/18/18-01.json",
+            "name": "CCTT"
+        },
+        		{
+            "url": "http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0",
+            "name": "😍辅助带飞😍"
+        },
+	    {
+            "url": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B63.txt?sign=baO6aqW2E4MdRJpIjaJCvuj3UZ2T5lAGp1LlLcM9GPU%3D%3A0",
+            "name": "😍上官带飞😍"
+        },
+	    {
+            "url": "http://52bsj.vip:81/api/v3/file/get/65805/%E4%BA%BA%E4%BA%BA%E9%A3%9E%E6%9C%BA.txt?sign=NsiWQIsvkHQukAmfGvrz1NbVDw2YY1-axLDdKW6i_1g%3D%3A0",
+            "name": "😍打野带飞😍"
+        },
+		{
+            "url": "http://饭太硬.ga/x/b.json",
+            "name": "😍下路带飞😍"
+        },
     {
             "url": "https://agit.ai/ctt/TVBox/raw/branch/main/18.json",
             "name": "ctt"
