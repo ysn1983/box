@@ -1,11 +1,11 @@
 {
     "urls": [
           {
-            "url": "https://agit.ai/laozou/XYQTVBox/raw/branch/main/XYQTVBox.json",
+            "url": "https://agit.ai/laozou/alct/raw/branch/main/X.json",
             "name": "laozou"
         },
          {
-            "url": "https://agit.ai/65012833/TVbox/raw/branch/master/YS.json",
+            "url": "https://agit.ai/laozou/alct/raw/branch/main/X.json",
             "name": "YS"
         },
        {
@@ -13,7 +13,7 @@
             "name": "FongMi"
         },
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "url": "https://jihulab.com/ygbh1/box/-/blob/93f888c0b28f555155b0de5a1746465e771efe65/%E6%9C%88%E5%85%89%E5%AE%9D.json",
             "name": "月光宝盒"
         },
            {
@@ -200,57 +200,6 @@
 {
 "url": "https://ju.binghe.ga/4.txt",
 "name":"🍭冰河线路"
-},
-
-         {
-      "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/2328.json",
-      "name": "成人1"
-    },   
-      {
-      "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
-      "name": "成人2"
-    }, 
-      {
-      "url": "http://52bsj.vip:98/18dxwoai",
-      "name": "成人3"
-    }, 
-      {
-      "url": "https://raw.iqiq.io/jie20091116/cat/main/TVBOX/se.json",
-      "name": "成人4"
-    }, 
-      {
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt",
-      "name": "成人5"
-    }, 
-      {
-      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt",
-      "name": "成人6"
-    }, 
-       {
-      "url": "https://agit.ai/ccy/MHQTV/raw/branch/master/sm.json",
-      "name": "成人7"
-    },
-       {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
-      "name": "成人8"
-    },
-    {"url":"http://shuyuan.miaogongzi.net/shuyuan/1682460537.json","name": "聚优解说路线"},
-{"url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt","name": "QiaoJ"},
-//{"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/nbsy.json","name": "MHQTV线路"},
-{"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/kang18+.json","name": "TJYU线路"},
-{"url":"https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json","name": "FenWe线路"},
-
-{"url":"https://agit.ai/SexTVBox/TVBox/raw/branch/master/18sex.txt","name": "Sex线路"},
-{"url":"https://huhujunxx.neocities.org/AV.json","name": "Huhujun线路"},
-//{"url":"http://52bsj.vip:81/api/v3/file/get/68420/fl%E6%8E%A5%E5%8F%A3.txt?sign=yowqWMosWpA9ssTwrUNhZKsf_HE8J_RY2mOnY3YBGEw%3D%3A0","name": "星河科技"},
-{"url":"http://52bsj.vip:81/api/v3/file/get/68422/%E9%A3%9E%E6%9C%BA3%20.txt?sign=XOk1BCFag1pL-xqE9sBExIcApSt_qGrVo7DLlV-FMDk%3D%3A0","name": "星河科技"},
-//{"url":"https://0a.fit/voWPV","name": "典韦带飞"},
-{"url":"http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0","name": "辅助带飞"},
-//{"url":"http://52bsj.vip:81/api/v3/file/get/65805/%E4%BA%BA%E4%BA%BA%E9%A3%9E%E6%9C%BA.txt?sign=NsiWQIsvkHQukAmfGvrz1NbVDw2YY1-axLDdKW6i_1g%3D%3A0","name": "打野带飞"},
-{"url":"http://饭太硬.ga/x/b.json","name": "下路带飞"},
-        {
-            "url": "https://huhujunxx.neocities.org/AV.json",
-            "name": "线路108"
-        }
+}
     ]
 }
