@@ -1,13 +1,7 @@
 {
     "urls": [
-          {
-            "url": "https://agit.ai/laozou/alct/raw/branch/main/X.json",
-            "name": "laozou"
-        },
-         {
-            "url": "https://agit.ai/laozou/alct/raw/branch/main/X.json",
-            "name": "YS"
-        },
+      
+      
        {
             "url": "https://agit.ai/ctt/TVBoxSE/raw/branch/master/FongMi.json",
             "name": "FongMi"
