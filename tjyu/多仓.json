@@ -1,8 +1,10 @@
 {
     "urls": [
+         {"name":"htx99","url":"https://agit.ai/htx99/gaoTvBox/raw/commit/6736cf1164bac9fe7d12d3194ce0cc432cda3f5e/0821.json"},
       
       {"name":"🚀饭太硬🚀","url":"http://饭太硬.top/tv"},
-
+     
+{"name":"南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json "},
 {"name":"🐼肥猫🐼","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 
 {"name":"🌹小米🌹","url":"http://xhww.fun:63/小米/DEMO.json"},
@@ -83,7 +85,7 @@
             "name": "风吹屁屁凉"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/ysc.json",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🦜运输车"
         }, 
         {
