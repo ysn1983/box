@@ -1,6 +1,13 @@
       {
     "urls":[
 
+        
+                {
+            "url": "https://notabug.org/zhaowen1975/zhaotvbox/raw/042e028abc0c19996366bbc658951a3de225e24b/maobiu.json",
+            "name": "精选1"
+        },	
+
+
                 {
             "url": "https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt",
             "name": "精选"
