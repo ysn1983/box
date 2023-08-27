@@ -1,5 +1,27 @@
       {
     "urls":[
+
+                {
+            "url": "https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt",
+            "name": "精选"
+        },	
+
+            
+                {
+            "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json",
+            "name": "二哈"
+        },	
+
+
+                {
+            "url": "https://la.kstore.space/download/2863/01.txt",
+            "name": "潇洒"
+        },	
+
+            {
+            "url": "https://d.looks.wang/我爱夜猫子",
+            "name": "夜猫子"
+        },	
         {
             "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/2328.json",
             "name": "日记"
