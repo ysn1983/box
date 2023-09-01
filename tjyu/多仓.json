@@ -1,7 +1,11 @@
       {
     "urls":[
 
-        
+                   {
+            "url": "https://agit.ai/tjyu110/tvbox/raw/commit/0ad0103b0adfece339b33a628cfa475d43e8d0f7/tjyu/JS/nan.jso",
+            "name": "自用2"
+        },	
+
                 {
             "url": "https://notabug.org/zhaowen1975/zhaotvbox/raw/042e028abc0c19996366bbc658951a3de225e24b/maobiu.json",
             "name": "精选1"
