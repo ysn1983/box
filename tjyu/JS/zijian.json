@@ -1,7 +1,7 @@
 {
     "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CB79A023D795989F42EBF76D64FD7AFA",
     "sites": [
-      {"key":"有声小说吧","name":"💢有声小说吧","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/230%e6%9c%89%e5%a3%b0%e5%b0%8f%e8%af%b4.josn"},
+      {"key":"有声小说吧","name":"💢有声小说吧","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/230%e6%9c%89%e5%a3%b0%e5%b0%8f%e8%af%b4.josn","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/230%e6%9c%89%e5%a3%b0%e5%b0%8f%e8%af%b4.josn"},
      {
       "key": "(18+)浪潮资源", 
       "name": "(18+)浪潮资源", "type": 1,
