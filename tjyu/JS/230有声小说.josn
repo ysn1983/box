@@ -18,7 +18,7 @@
     "首页片单链接加前缀": "www.230ts.net",
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
-    "分类链接": "www.230ts.net/sort/r{cateId}_{catePg}.html",
+    "分类链接": "www.230ts.net/sort/{catePg}.html",
     "分类名称": "玄幻有声&灵异有声&都市有声&长篇评书&排行榜",
     "分类名称替换词": "xuanhuan&lingyi&dushi&junshi&pingshu&allvisit",
     "筛选数据": {},
