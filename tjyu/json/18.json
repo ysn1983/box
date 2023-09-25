@@ -21,6 +21,113 @@
             },
             "jar": "https://www.fenwe.tk:521/jar/xBPQ.jar"
         },
+         {
+            "key": "av",
+            "name": " av|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://missav.com/cn/{cateId}?page={catePg}",
+                "分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"
+            }
+        }, 
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": "1"
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1
+    },
+    {
+      "key": "18AV",
+      "name": "18AV",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1
+    },
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1
+    },
+    {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1
+    },
+    {
+      "key": "Supjav",
+      "name": "Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1
+    },
+    {
+      "key": "csp_Vivo",
+      "name": "Vivo",
+      "type": 3,
+      "api": "csp_Vivo",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/vivo.jar"},
+{
+            "key": "红袖",
+            "name": "红袖添香",
+            "type": 1,
+            "api": "https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "一区","二区","三区","四区","国产裸聊","抖音视频","网红头条","网曝黑料","欧美无码","女优明星","SM调教","无码专区","麻豆传媒","制服诱惑","AI换脸","中文字幕","卡通动漫","极品探花","美女主播","自拍偷拍","熟女人妻","萝莉少女","蜜桃传媒","3P群交","果冻传媒","精东影业","内地传媒","国产精品","日韩有码"
+            ]
+},
       {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
 ],
 
