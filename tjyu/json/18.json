@@ -3,17 +3,18 @@
     "wallpaper": "https://gao.chuqiuyu.tk",
 
   "sites": [
+   {
+      "key": "青青草",
+      "name": "青青草",
+      "type": 0,
+      "api": "https://www.caiji05.com/cjapi/sda/vod/xml/m3u8.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+     } 
+],
 
-   
-    
-{ "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-        { "key": "芒果18+", "name": "芒果18+(动漫不错)", "type": 0, "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
-        { "key": "ms4nii", "name": "美少女资源(已修复)", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "KxrbspE", "name": "淫水机资源(已修复)", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "gdlsE", "name": "香奶儿资源(已修复)", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "kxgav", "name": "白嫖资源(已修复)", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
- 
+
 "parses": [
   {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Web聚合","type":3,"url":"Web"},
