@@ -1,7 +1,6 @@
 {
     "spider": "https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
     "sites": [
-  
      {
       "key": "AList",
       "name": "AList",
@@ -10,71 +9,15 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"},
-     {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1
-    },
-    {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1
-    },
-    
-    {
-      "key": "青青草",
-      "name": "青青草",
-      "type": 0,
-      "api": "https://www.caiji05.com/cjapi/sda/vod/xml/m3u8.html",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "AVZY",
-      "name": "AVZY",
-      "type": 1,
-      "api": "http://m.7777688.com/inc/apijson.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
+       {
       "key": "(18+)浪潮资源", 
-      "name": "(18+)浪潮资源",
-       "type": 1,
+      "name": "(18+)浪潮资源", "type": 1,
       "api": "http://langchaozy6.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0 
     } 
 ],
-
-# 直播
-    "lives": [
-        { "group": "电影轮播", "channels": [ 
-        { "name": "周星星","urls": [ "http://wabc.ml/huya.php?id=11342412" ] }, 
-        { "name": "经典贺岁片", "urls": [ "http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8" ] },
-        { "name": "古天乐影院", "urls": [ "http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8" ] },
-        { "name": "成龙作品集", "urls": [ "http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8" ] },
-        { "name": "张国荣作品集", "urls": [ "http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8" ] },
-        { "name": "周润发影院", "urls": [ "http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8" ] },
-        { "name": "云上电影院", "urls": [ "http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8" ] },
-        { "name": "刘德华影院", "urls": [ "http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8" ] },
-        { "name": "刘亦菲影视展播", "urls": [ "http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8" ] },
-        { "name": "TVB剧场", "urls": [ "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8" ] },
-        { "name": "盗墓方法论", "urls": [ "http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8" ] },
-        { "name": "试胆大会", "urls": [ "http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8" ] },
-        { "name": "军旅剧场", "urls": [ "http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8" ] },
-        { "name": "SNH48剧场公演", "urls": [ "http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8" ] },
-        { "name": "追剧少女", "urls": [ "http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8" ] }
-      ]
-    }
-  ],
 
 
     "parses": [
