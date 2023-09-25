@@ -9,6 +9,18 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"},
+          {
+            "key": "快播",
+            "name": "快播|影视",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "ext": {
+                "直接播放": "1",
+                "分类url": "https://37311.net/Index/lists?cat={cateId}.html",
+                "分类": "天美传媒$46"
+            },
+            "jar": "https://www.fenwe.tk:521/jar/xBPQ.jar"
+        },
       {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
 ],
 
