@@ -9,16 +9,8 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"},
-       {
-      "key": "(18+)浪潮资源", 
-      "name": "(18+)浪潮资源", "type": 1,
-      "api": "http://langchaozy6.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0 
-    } 
+      {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
 ],
-
 
     "parses": [
         { "name": "Json轮询", "type": 2, "url": "Sequence" },
@@ -217,7 +209,6 @@
 {"name": "解116","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1525223&key=fhikpsvBCDFHJOSUZ8&url="},
 {"name": "解117","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
 {"name": "解118","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=594615&key=bcehpqtxCEGKMT0248&url="},
-{"name": "解119","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=",{"name": "解84","type": 1,"url": "https://svip.bljiex.cc/?v="},
 {"name": "解85","type": 1,"url": "https://www.1717yun.com/api/?url="},
 {"name": "解89","type": 1,"url": "https://api.qianqi.net/vip/?url="},
 {"name": "解87","type": 1,"url": "https://www.ikukk.com/?url="},
