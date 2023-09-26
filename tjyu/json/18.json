@@ -1,6 +1,14 @@
 {
     "spider": "https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
     "sites": [
+
+      {
+            "name": "玩偶姐姐全套",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u",
+            "epg": "http://epg.hklive.tv",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
      {
       "key": "AList",
       "name": "AList",
