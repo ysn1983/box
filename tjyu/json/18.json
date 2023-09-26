@@ -1,8 +1,15 @@
 {
     "spider": "https://agit.ai/tjyu110/tvbox/src/commit/c941dc5307e76b55078f2eb7976a5ad903a2c4cd/tjyu/jar/custom_spider.jar",
+   
+   "lives":[{
+    "name":"自己建",
+   "type":0,
+   "url":"https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
+   "playerType":1,
+   "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+   "logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    
     "sites": [
-
-     
      {
       "key": "AList",
       "name": "AList",
