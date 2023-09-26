@@ -7,7 +7,18 @@
    "url":"https://raw.gitmirror.com/mengzehe/TVBox/main/18/18live.txt",
    "playerType":1,
    "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
-   "logo":"https://epg.112114.xyz/logo/{name}.png"}],
+   "logo":"https://epg.112114.xyz/logo/{name}.png" },
+   
+    { "name":"YanG-1989",
+   "type":0,
+   "url":"https://raw.fgit.cf/YanG-1989/m3u/main/Adult.m3u",
+   "playerType":1,
+   "epg":"http://diyp.112114.xyz/?ch={name}&date={date}",
+   "logo":"https://epg.112114.xyz/logo/{name}.png"
+   
+   
+   
+   }],
     
     "sites": [
      {
