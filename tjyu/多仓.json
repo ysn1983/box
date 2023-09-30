@@ -3,14 +3,22 @@
 
 
                 {
-            "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/zijian.json",
-            "name": "自用3"
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "肥鸭"
         },
                    {
             "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/nan.json",
             "name": "自用2"
         },	
-
+        
+                {
+            "url": "http://8.210.232.168/xc.json",
+            "name": "星辰线路"
+        },
+                     {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫1"
+        },
                 {
             "url": "https://notabug.org/zhaowen1975/zhaotvbox/raw/042e028abc0c19996366bbc658951a3de225e24b/maobiu.json",
             "name": "精选1"
