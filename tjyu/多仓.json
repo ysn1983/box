@@ -32,10 +32,7 @@
             "url": "https://gitlab.com/txcgb/TVBox/-/raw/master/json/66666.json",
             "name": "🌈66666🌈"
         },
-        {
-            "url": "https://gitlab.com/txcgb/TVBox/-/raw/master/jian.json",
-            "name": "🌈Jian🌈"
-        },
+        {"sourceName":"月光宝盒仓①","sourceUrl":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/%e6%9c%88%e5%85%89%e5%ae%9d%e7%9b%92.json"},
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/box.json",
             "name": "🌈box🌈"
