@@ -1,6 +1,10 @@
       {
     "urls":[
-
+                 
+        {
+            "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/%e5%bd%b1%e8%a7%86.json",
+            "name": "自用影视"
+        },
 
                 {
             "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
