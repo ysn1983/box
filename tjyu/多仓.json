@@ -1,5 +1,11 @@
       {
     "urls":[
+
+              {
+            "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/%e8%9c%82%e8%9c%9c.json",
+            "name": "自用蜂蜜"
+        },
+
                  
         {
             "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/%e5%bd%b1%e8%a7%86.json",
@@ -25,14 +31,8 @@
             "name": "精选1"
         },	
 
-          {
-            "url": "https://gitlab.com/txcgb/TVBox/-/raw/master/wpro",
-            "name": "🌈wpro🌈"
-        },
-        {
-            "url": "https://gitlab.com/txcgb/TVBox/-/raw/master/json/66666.json",
-            "name": "🌈66666🌈"
-        },
+        
+       
         
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/box.json",
