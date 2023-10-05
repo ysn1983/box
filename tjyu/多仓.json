@@ -1,6 +1,11 @@
       {
     "urls":[
 
+                      {
+            "url": "https://raw.githubusercontent.com/erichua/tvbox/main/tvbox_free/eric.json",
+            "name": "自用18"
+        },
+
               {
             "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/ziji.json",
             "name": "自用蜂蜜"
