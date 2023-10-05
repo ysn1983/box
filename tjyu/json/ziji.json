@@ -310,5 +310,5 @@
         "cms.qdwght.com"
     ], 
 	"wallpaper": "https://jianbian.chuqiuyu.tk",
-	"spider": "./jar/cc.jar ;md5;09baf4a03d362d96f0fc14085c343191"
+	"spider": "https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/cc.jar"
 }
