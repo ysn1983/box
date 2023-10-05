@@ -1,8 +1,12 @@
       {
     "urls":[
-
+      
         
-
+        
+          {
+                        "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/zhibo.json",
+            "name": "自用直播"
+        },
            {
                         "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/823.json",
             "name": "自用823"
