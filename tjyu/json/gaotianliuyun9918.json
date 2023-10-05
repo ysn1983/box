@@ -1,20 +1,20 @@
 {
 "spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/fm.nogo.jar;md5;3c386122e7a7c5ffda686b0301c2a52c",
 "lives":[
-{"name":"AV","type":0,"url":"./livex.m3u"}
+{"name":"mengzehe-18m3u","type":0,"url":"https://raw.fgit.cf/mengzehe/TVBox/main/18/18live-1.m3u"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[
   
 {"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_search3_min.js","ext":"18+"},
-{"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+","timeout":60},
+{"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/lf_p2p2_min.js","ext":"18+","timeout":60},
 {"key":"lf_js_lf_live","name":"直播|lf_live","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live1.txt"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":60},
 {"key":"nivod18","name":"泥巴cat","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/nivod_op.js","ext":"做爱"},
 {"key":"mtsp_open","name":"mtspcat","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/mtsp_open.js","style":{"type":"rect","ratio":1.485}},
 {"key":"18av_open","name":"18avcat","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/18av_open.js","style":{"type":"rect","ratio":1.485}},
 {"key":"18A貓","name":"18A貓","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/18a_open.js","searchable":1,"style":{"type":"rect","ratio":1.485}},
-{"key":"csp_SMB目录","name":"网络共享","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/smb.jar;md5;0ebaae84cd3d8a284c59734bb02f91dd","ext":"smb://MAIBENBEN:123@192.168.1.9/"},
+{"key":"csp_SMB目录","name":"网络共享","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/smb.jar","ext":"smb://MAIBENBEN:123@192.168.1.9/"},
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"SOD","server":"https://a.sodaz.xyz"},{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}},
 {"key":"泥巴","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"ext":"1;socks5://192.168.1.9:4592"},
 {"key":"量子","name":"量子","type":0,"api":"http://127.0.0.1:10079/?thread=0&proxy=socks5://192.168.1.9:4592&url=https://cj.lziapi.com/api.php/provide/vod/at/xml/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=socks5://192.168.1.9:4592&url=","searchable":1,"changeable":1,"categories":["伦理片"]},
@@ -30,12 +30,12 @@
 {"key":"姐姐","name":"姐姐","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.309},"ext":{"图片":"data-src=\"&&\"","直接播放":"1","分类url":"https://hongkongdollvideo.com/{cateId}/{catePg}.html","分类":"麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$HongkongDoll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog"},"jar":"./jar/fan.txt","style":{"type":"rect","ratio":1.33}},
 {"key":"玉兔资源","name":"玉兔资源","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"style":{"type":"rect","ratio":1.333},"quickSearch":1},
 {"key":"drpy_js_猫了个咪","name":"猫了个咪","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"},
-{"key":"drpy_js_跑TV","name":"跑TV","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"./js/跑TV.js"},
-{"key":"drpy_js_18av","name":"18av","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"./js/18av.js"},
-{"key":"drpy_js_banan","name":"banan","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"./js/banan.js"},
-{"key":"drpy_js_Missav","name":"Missav","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"./js/Missav.js"},
+{"key":"drpy_js_跑TV","name":"跑TV","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e8%b7%91TV.js"},
+{"key":"drpy_js_18av","name":"18av","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/18av%20%281%29.js"},
+{"key":"drpy_js_banan","name":"banan","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/banan.js"},
+{"key":"drpy_js_Missav","name":"Missav","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/Missav.js"},
 {"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e7%8e%a9%e5%81%b6%e5%a7%90%e5%a7%90.js"},
-{"key":"drpy_js_吸瓜","name":"吸瓜","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"./js/吸瓜.js"},
+{"key":"drpy_js_吸瓜","name":"吸瓜","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e5%90%b8%e7%93%9c.js"},
 {"key":"drpy_js_养端","name":"养端","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e5%85%bb%e7%ab%af.js"},
 {"key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e6%9c%b1%e5%8f%a4%e5%8a%9b.js"},
 {"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
