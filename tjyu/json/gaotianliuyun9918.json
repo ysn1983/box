@@ -11,7 +11,7 @@
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":60},
 {"key":"nivod18","name":"泥巴cat","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/nivod_op.js","ext":"做爱"},
 {"key":"mtsp_open","name":"mtspcat","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/mtsp_open.js","style":{"type":"rect","ratio":1.485}},
-{"key":"18av_open","name":"18avcat","type":3,"api":"./cat/js/18av_open.js","style":{"type":"rect","ratio":1.485}},
+{"key":"18av_open","name":"18avcat","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/18av_open.js","style":{"type":"rect","ratio":1.485}},
 {"key":"18A貓","name":"18A貓","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/18a_open.js","searchable":1,"style":{"type":"rect","ratio":1.485}},
 {"key":"csp_SMB目录","name":"网络共享","type":3,"api":"csp_Smb4nas","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/smb.jar;md5;0ebaae84cd3d8a284c59734bb02f91dd","ext":"smb://MAIBENBEN:123@192.168.1.9/"},
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"SOD","server":"https://a.sodaz.xyz"},{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}},
