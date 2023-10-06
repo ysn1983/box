@@ -555,39 +555,11 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "parses": [
-        {
-            "name": "POL",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "SEQ",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "FC",
-            "type": 1,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {"name": "jsonplayer","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
-        {
-            "name": "JP",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "XF",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "PJ",
-            "type": 0,
-            "url": "https://jx.playerjy.com/?url="
-        }
-    ],
+     "parses": [
+    {"name": "解析聚合","type": 3,"url": "Web"},
+    {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+    {"name": "jsonplayer","type": 0,"url": "https://jx.jsonplayer.com/player/?url="}
+  ],
     "rules": [
         {
             "name": "暴風",
