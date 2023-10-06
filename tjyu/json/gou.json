@@ -1,5 +1,12 @@
 {
     "sites": [
+        {"key":"酷影",
+        "name":"酷影┃影视",
+        "type":3,"api":"http://ck.realdou.cn/JS/lib/drpy2.min.js",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://ck.realdou.cn/JS/js/酷影蓝光.js"},
         {
             "key": "豆瓣",
             "name": "🅱 豆瓣",
