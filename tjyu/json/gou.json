@@ -569,8 +569,9 @@
         {
             "name": "FC",
             "type": 1,
-            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+            "url": "https://jx.777jiexi.com/player/?url="
         },
+        {"name": "jsonplayer","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
         {
             "name": "JP",
             "type": 0,
