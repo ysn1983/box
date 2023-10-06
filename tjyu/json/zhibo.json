@@ -60,27 +60,27 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "sites": [],
-  "parses": [
+  
+   "parses": [
+    {
+      "name": "ext轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "ext并发",
+      "type": 2,
+      "url": "Parallel"
+    },
     {
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "Web聚合",
+      "name": "聚合0",
       "type": 3,
       "url": "Web"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
     },
     {
       "name": "但行好事",
