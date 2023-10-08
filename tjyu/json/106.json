@@ -1,7 +1,8 @@
 {
 "sites": [
 
-{"key":"jinying","name":" 金鹰","type":1,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/4khdr.js",playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js"},
+{"key":"drpy_js_4KHDR","name":"4KHDR[js]","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/4khdr.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/lib/drpy2.min.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+
 
 {"key":"jinying","name":"影视 | 金鹰","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 
