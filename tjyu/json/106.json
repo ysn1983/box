@@ -1,7 +1,7 @@
 {
 "sites": [
 
-  {"key":"xinlang","name":"影视 | 新浪","type":1,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"},
+ {"key":"xinlang","name":"影视 | 新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
  
  {"key":"piaoling","name":"影视 | 飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy3.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","港粤剧","欧美剧","台湾剧","韩剧","日剧","泰剧","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动漫电影","体育赛事"]},
