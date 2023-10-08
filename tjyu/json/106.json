@@ -1,6 +1,10 @@
 {
 "sites": [
+ 
+ {"key":"394tv","name":"影视 | 39","type":1,"api":"https://www.394tv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 
+{"key":"languang","name":"影视 | 蓝光","api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+{"key":"lehuo","name":"影视 | 乐活","api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 {"key":"bdzy","name":"影视 | 百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 {"key":"bfzy","name":"影视 | 暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
  {"key":"xinlang","name":"影视 | 新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
