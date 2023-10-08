@@ -1,6 +1,29 @@
 {
 "sites": [
 
+
+{"key":"jinying","name":"影视 | 金鹰","type":1,"api":"https://jinyingzy.com/provide/vod/from/jinyingm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"jisu","name":"影视 | 极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"kuaiche","name":"影视 | 快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"liangzi","name":"影视 | 量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"qihu","name":"影视 | 奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"guangsuapi","name":"影视 | 光速","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"yingtu","name":"影视 | 影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"feifan","name":"影视 | 非凡","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"feisu","name":"影视 | 飞速","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"guangsu","name":"影视 | 光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
+{"key":"hongniu","name":"影视 | 红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
+
 {"key":"lehuo","name":"影视 | 乐活","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 
 {"key":"languang","name":"影视 | 蓝光","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
