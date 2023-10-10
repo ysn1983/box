@@ -109,11 +109,6 @@
 {"key": "csp_BBB","name": "🅱哔哩┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩合集.json"},
 {"key": "csp_戏曲","name": "🅱哔哩┃戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩戏曲.json"},
 {"key": "演唱会","name": "🅱哔哩┃音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"},
-{"key": "兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://drpy.cainisi.cf/js/兔小贝.js"},
-{"key": "儿童","name": "📚少儿┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩少儿.json"},
-{"key": "小学","name": "📚小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩小学.json"},
-{"key": "初中","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩初中.json"},
-{"key": "高中","name": "📚高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/哔哩哔哩高中.json"},
 {"key": "JustLive","name": "Just┃直播","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://drpy.cainisi.cf/js/JustLive.js"},
 {"key": "js虎牙","name": "虎牙┃直播","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://drpy.cainisi.cf/js/虎牙直播.js"},
 {"key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"}
@@ -256,4 +251,5 @@
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "spider": "https://tvbox.cainisi.cf/jar/fty1004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7"
+  }
 
