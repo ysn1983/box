@@ -4,18 +4,7 @@
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "lives": [
 
-     {
-      "key": "1080zy",
-      "name": "1080(采集)",
-      "type": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "categories": [
-        "倫理片",
-        "福利"
-      ]
-    },
+   
   
     {
       "name": "tjyu",
@@ -28,7 +17,19 @@
 
   "sites": [
 
-  
+    {
+      "key": "1080zy",
+      "name": "1080(采集)",
+      "type": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "categories": [
+        "倫理片",
+        "福利"
+      ]
+    },
+
 {
    "key": "熊猫",
    "name": "🐼┃熊猫┃影视",
