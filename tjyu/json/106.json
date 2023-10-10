@@ -16,18 +16,212 @@
   ],
 
   "sites": [
-
-    {
-      "key": "1080zy",
-      "name": "1080(采集)",
-      "type": 1,
+      {
+      "key": "有声小说吧",
+      "name": "👂有声小说吧",
+      "type": 3,
+      "api": "csp_XYQHiker",
       "searchable": 1,
-      "changeable": 1,
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "categories": [
-        "倫理片",
-        "福利"
-      ]
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/youshengxiaoshuoba.json"
+    },
+     {
+      "key": "海洋听书",
+      "name": "👂海洋听书",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/js/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/haiyangtingshu.js"
+    },
+ {
+      "key": "海洋听书",
+      "name": "👂海洋听书",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/js/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/haiyangtingshu.js"
+    },
+ {
+      "key": "csp_KungFu404",
+      "name": "🎦阿里设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/alibaba.jar"
+    },
+      {
+      "key": "玩偶",
+      "name": "🈷️玩偶┃哥哥",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "月儿天下第一",
+        "filter": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/wogg.json"
+      }
+    },
+     {
+      "key": "玩偶内置",
+      "name": "🈷️玩偶┃T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=01e8c0a002c14ba39d1e260cf79f807a"
+    },
+     {
+      "key": "橘子影视",
+      "name": "🈷️橘子┃4K",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/Appto.jar"
+    },
+    {
+      "key": "米诺影视",
+      "name": "🈷️米诺┃4K",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/Appto.jar"
+    },
+    {
+      "key": "maolv_open",
+      "name": "🈷️毛驴┃4k",
+      "type": 3,
+      "api": "csp_Maolv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/maolv.jar"
+    },
+    {
+      "key": "世界",
+      "name": "🈷️世界┃4k",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/sj.js"
+    },
+    {
+      "key": "毛毛子",
+      "name": "🈷️毛毛┃4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/maozi.json"
+    },
+    {
+      "key": "追忆影视",
+      "name": "🈷️追忆┃4K",
+      "type": 3,
+      "api": "csp_Appto",
+      "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/Appto.jar"
+    },
+    {
+      "key": "XYQH_电影港",
+      "name": "🈷️港口┃4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/港口.json"
+    },
+    {
+      "key": "皮皮虾",
+      "name": "🈷️皮皮虾┃SS",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/皮皮虾.json"
+    },
+    {
+      "key": "大鹏",
+      "name": "🈷️大鹏┃4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.jialiangos.com:88/api.php/app/"
+    },
+    {
+      "key": "AList",
+      "name": "🈷️高清网盘┃4K",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/app.jar",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/khari.json"
+    },
+    {
+      "key": "阿里云盘网",
+      "name": "🈷️云盘网┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/aliyunpan.json"
+    },
+    {
+      "key": "csp_XYQHiker4klg",
+      "name": "🈷️蓝光网┃4K",
+      "type": 3,
+      "playerType": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/中国蓝光网.json"
+    },
+    {
+      "key": "my4k",
+      "name": "🈷️蚂蚁磁┃4K",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/my4k.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/app.jar"
+    },
+    {
+      "key": "seedhub",
+      "name": "🈷️SEED磁┃4K",
+      "type": 3,
+      "api": "csp_MagnetSeedhub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/jar/app.jar"
+    },
+    {
+      "key": "6V磁力",
+      "name": "🈷️6V磁┃4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/6v.json"
+    },
+    {
+      "key": "电影港",
+      "name": "🈷️DYG磁┃4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/json/dyg.json"
     },
 
 {
@@ -95,7 +289,6 @@
 
 {"key":"bfzy","name":"影视 | 暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 {"key":"xinlang","name":"影视 | 新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
-{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 
    
     {"key": "布雷","name": "💥┃布雷┃影视(SP)","type": 3,"api": "csp_AppMao","playerType": 2,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+3/"},
