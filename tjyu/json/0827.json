@@ -27,7 +27,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
-        "filter": "./json/wogg.json"
+        "filter": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/wogg.json"
       }
     },
     {
@@ -37,7 +37,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json"
+      "ext": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/duboku.json"
     },
     {
       "key": "布雷",
@@ -155,7 +155,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./json/chuqiuyu1.json",
+        "json": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/chuqiuyu1.json",
         "cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt"
       }
     },
@@ -186,7 +186,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/alist.json"
+      "ext": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/alist.json"
     },
     {
       "key": "WebDAV",
@@ -195,7 +195,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./json/webdav.json"
+      "ext": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/webdav.json"
     },
     {
       "key": "七夜",
