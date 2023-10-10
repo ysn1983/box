@@ -1,6 +1,11 @@
       {
     "urls":[
-      
+            
+     
+                  {
+                        "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/0827.json",
+            "name": "自用0827"
+        },
             {
                         "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/106.json",
             "name": "自用106"
