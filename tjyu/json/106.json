@@ -1,4 +1,6 @@
 {
+     
+ 
 "sites": [
 
 {"key":"快帆","name":"快帆影视","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","动画片","短片","国产动漫"]},
@@ -239,17 +241,6 @@
 {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},
 {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
 {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}], 
-    "lives": [
-    {"name": "live",
-	"type": 0,
-	"url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/live.txt",
-	"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-	"logo": "https://epg.112114.xyz/logo/{name}.png",
-	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-	"playerType": 2
-    }
-  ],
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://tvbox.cainisi.cf/jar/fty1004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7"
-  }
-
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+    "wallpaper": "https://bing.img.run/rand.php"
+}
