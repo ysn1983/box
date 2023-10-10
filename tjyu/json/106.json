@@ -36,6 +36,17 @@
 {"key":"bfzy","name":"影视 | 暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
 {"key":"xinlang","name":"影视 | 新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/caiji.js"},
  
+      {
+      "key": "Mino",
+      "name": "👻Mino┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
+    }, 
+
  {"key":"piaoling","name":"影视 | 飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy3.com/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","港粤剧","欧美剧","台湾剧","韩剧","日剧","泰剧","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动漫电影","体育赛事"]},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"json:https://tvmvip.com/lz2.php?url=","searchable":1,"quickSearch":1},
