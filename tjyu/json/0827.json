@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
+  "spider": "https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
