@@ -1,5 +1,5 @@
 {
-  "spider": "https://tvbox.cainisi.cf/jar/fty1004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+  "spider": "https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/fty1004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
   "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94",
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "lives": [
@@ -16,7 +16,9 @@
   ],
 
   "sites": [
-   {"key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"}
+    {"key": "csp_Mp4Mov","name": "CatBox专享 |Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+   {"key": "js虎牙","name": "虎牙┃直播","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://drpy.cainisi.cf/js/虎牙直播.js"},
+{"key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "https://tvbox.cainisi.cf/json/XPath/企鹅体育.json"}
 ],
 
   "parses": [
