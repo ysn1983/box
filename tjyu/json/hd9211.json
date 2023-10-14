@@ -17,7 +17,7 @@
 
   "sites": [
            
-{"key":"6U资源","name": "6U资源","type": 0,"api": "http://www.6uzy.cc/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"6U资源","name": "6U资源","type": 3,"api": "http://www.6uzy.cc/inc/apijson_vod.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 
 
