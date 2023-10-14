@@ -1,13 +1,13 @@
-{
-    "urls": [
-           {"url":"https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json","name":"hd9211"},
+
+{"urls":
+[
+              {"url":"https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json","name":"hd9211"},
               {"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e8%a7%a3%e4%b9%90%e4%bc%9a.txt","name":"tv189ymail_FLYS01"},
 {"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e8%a7%a3%e4%b9%90%e4%bc%9aFLYS02.txt","name":"tv189ymail_FLYS02"},
 
 
    {"url":"https://agit.ai/tjyu110/tvbox/raw/commit/c36df8c912e5a9a3d70b2ec1dd8aec26fef69473/tjyu/mifeng18.json","name":"蜂蜜影视"},
-{"urls":
-[
+
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/one.json","name":"xfcjp_one"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/one1.json","name":"xfcjp_one1"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json","name":"Dong-learn9_18"},
@@ -1191,16 +1191,6 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/wuheng18/wh/master/wh.txt","name":"wuheng18_线路211"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/wuheng18/zy/master/wh.txt","name":"wuheng18_线路212"},
 
+{"url":"https://raw.iqiq.io/wuheng18/zy/master/wh.txt","name":"wuheng18_线路212"}
+]}
 
-		{
-            "url": "http://52bsj.vip:98/wsjb",
-            "name": "😍上路带飞😍"
-        }
-    ],
-    "vip": [
-        {
-            "url": "",
-            "name": "默认"
-        }
-    ]
-}
