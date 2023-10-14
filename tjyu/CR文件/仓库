@@ -1,6 +1,8 @@
 {"urls":
 [
-
+      
+     {"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/1818.json","name":"自建1818"},
+ 
      {"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/gou18.json","name":"gou18"},
      {"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/gaotianliuyun9918.json","name":"高天9918"},
 
