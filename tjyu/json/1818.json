@@ -1,5 +1,6 @@
 {
   "sites": [
+    {"key":"路飞直播2点播","name":"电视 | 路飞[js]","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/lf_live10_min.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/lf_live.json"},
     {"key":"道长直播2点播","name":"电视 | 直播[js]","type":3,"api":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/live2cms.js","ext":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/live2mv_data.json"},
    {
       "key": "本地",
