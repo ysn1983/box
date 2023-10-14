@@ -17,13 +17,13 @@
 
   "sites": [
            
-{"key":"6U资源",
-"name": "6U资源",
-"type": 0,
+{"key":"极品伦理",
+"name": "极品伦理",
+"type": 1,
 "api": "http://jpzy.me/api.php/provide/vod/",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1
+"searchable": 0,
+"quickSearch": 0
+
 },
 
 
