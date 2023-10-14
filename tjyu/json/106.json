@@ -64,7 +64,6 @@
       "name": "热播┃BPQ",
       "type": 3,
       "changeable": 1,
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": {
@@ -76,7 +75,7 @@
         "副标题": "class=\"pic-text text-right\"><b>&&</span>",
         "搜索模式": "1",
         "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-        "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
+        "搜索url": "https://www.reboku.cc/v/id-.html?wd={wd}",
         "线路数组": "<h4 class=\"title&&/h4>",
         "线路标题": ">&&<",
         "播放列表": "<a&&/a>",
@@ -86,7 +85,7 @@
         "主演": "主演：&&</p>",
         "简介": "display: none;\">&&</span>",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
+        "分类url": "https://www.reboku.cc/k/{cateId}--{area}------{catePg}---{year}.html;;a",
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
     },
@@ -109,7 +108,6 @@
       "name": "淘剧┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext": {
         "主页url": "http://dyxz.tv",
         "数组": "<div class=\"stui-vodlist__box\">&&</div>",
@@ -148,7 +146,7 @@
       "name": "速映┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://xhww.fun:63/2.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+    
       "ext": {
         "站名": "速映影视",
         "主页url": "https://www.suying.lol/",
