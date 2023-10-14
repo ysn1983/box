@@ -22,7 +22,9 @@
         {"key":"csp_KubaCL","name":"CatBox专享 |酷吧电影","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
         {"key":"csp_MeijuTT","name":"CatBox专享 |美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
         {"key":"csp_MeijuMi","name":"CatBox专享 |美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
-  
+  { "key" : " tutu_open " , "name" : "影视 | 图图" , "type" : 3 , "api" : "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/tutu_open.js" },
+{ "key" : " jojo_open " , "name" : "影视 | jojo " , "type" : 3 , "api" : "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/jojo_open.js" },
+{ "key" : " jiohub " , "name" : "影视 | jiohub " , "type" : 3 , "api" : "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/jiohub.js" },
 
 {
    "key": "熊猫",
