@@ -3,7 +3,11 @@
  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "lives": [
 
-
+{"name":"直播V4","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/zblive.txt"},
+{"name":"XXX1","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u"},
+{"name":"XXX2","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
+{"name":"XXX3","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"},
+{"name":"XXX","type":"0","url":"https://ghproxy.com/https://raw.githubusercontent.com/ihymn/fm/main/tv/xxx.m3u"},
 
   
     {
