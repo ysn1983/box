@@ -852,7 +852,7 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
                         {
-            "name": "小小TV直播",
+            "name": "小小TV直播6677",
             "type": 0,
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -904,7 +904,7 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "AK47",
+            "name": "AK47 666",
             "type": 0,
             "url": "https://qu.ax/HtMB.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -939,13 +939,13 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "罗汉果",
+            "name": "罗汉果9527",
             "type": 0,
             "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
-        {"type":0,"pass": true,"name":"影子TV","url":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
+        {"type":0,"pass": true,"name":"影子TV2563","url":"https://ghproxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/影子TV.txt","logo":"http://epg.51zmt.top:8000/{logo}","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","playerType":1},
         {
             "name": "四k数毛TV",
             "type": 0,
@@ -979,14 +979,14 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "惊云TV",
+            "name": "惊云TV555",
             "type": 0,
             "url": "https://download.kstore.space/download/5147/惊云TV.txt?password=f35cb0ff3d9d077cf16690b95f417271-1695976671610",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
         {
-      "name": "┃龙龙🐉┃直播┃wudi┃",
+      "name": "┃龙龙777┃wudi┃",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/v.txt",
       "epg": ""
@@ -1007,7 +1007,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },    
     {
-      "name": "┃龙龙🐉┃直播XIAOHU┃",
+      "name": "┃龙龙777XIAOHU┃",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/549835541/tv/main/XIAOHU.txt",
       "epg": ""
