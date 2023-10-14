@@ -1,5 +1,6 @@
 {
 "spider":"https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/fm.nogo.jar;md5;3c386122e7a7c5ffda686b0301c2a52c",
+"spider":"./jar/fm.nogo.jar;md5;220dc8e77bd6abda8525b8dc400dadb0",
 "lives":[
 {"name":"mengzehe-18m3u","type":0,"url":"https://raw.fgit.cf/mengzehe/TVBox/main/18/18live-1.m3u"}
 ],
