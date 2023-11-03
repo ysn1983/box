@@ -1,6 +1,7 @@
 {"urls":
 [
-     
+  
+         {"url":"https://agit.ai/htx99/Tvbox1/raw/branch/main/cr.json","name":"htx99"},
       {"url":"https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json","name":"ResourceInterface"},
       
      {"url":"https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/1818.json","name":"自建1818"},
