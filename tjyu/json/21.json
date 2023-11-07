@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/bilibili.json"
+            "ext": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/bilibili.json"
         },
         {
             "key": "新片热播",
