@@ -406,8 +406,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "./api/drpy1.min.js",
-            "ext": "./js/jp.js"
+            "api": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/drpy1.min.js",
+            "ext": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/%e8%b4%b1%e8%b4%b1.js"
         },
         {
             "key": "琪琪资源",
@@ -775,90 +775,15 @@
             "filterable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
         },
-        {
-            "key": "dr_兔小贝",
-            "name": "🧒儿童┃启蒙",
-            "type": 3,
-            "api": "./api/drpy1.min.js",
-            "ext": "./js/兔小贝.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "虎牙直播js",
-            "name": "🐯虎牙┃直播",
-            "type": 3,
-            "api": "./api/drpy1.min.js",
-            "ext": "./js/虎牙直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_XYQBiu_斗鱼",
-            "name": "🦈斗鱼┃直播",
-            "type": 3,
-            "api": "./api/drpy1.min.js",
-            "ext": "./js/斗鱼直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_qiumi",
-            "name": "⚽️球迷┃球迷",
-            "type": 3,
-            "api": "./api/drpy1.min.js",
-            "ext": "./js/JRKAN直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_310直播",
-            "name": "🏀看球┃看球",
-            "type": 3,
-            "api": "./api/drpy1.min.js",
-            "ext": "./js/310直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/企鹅直播.json"
-        },
+       
+        
+        
+       
+       
+       
+       
+        
+      
         {
             "key": "索尼资源",
             "name": "😻索尼┃资源",
