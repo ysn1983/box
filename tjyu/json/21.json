@@ -1,5 +1,5 @@
 {
-    "spider": "./spider.jar",
+    "spider": "https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
