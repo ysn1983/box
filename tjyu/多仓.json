@@ -13,6 +13,10 @@
                         "url": "https://agit.ai/iswhat/TVBox/raw/branch/master/XC.json",
             "name": "南风"
         },
+               {
+                        "url": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/json/zhibo.json",
+            "name": "自用ZHIBO"
+        },
           
 
      
